@@ -1,0 +1,8 @@
+* text=auto
+
+*.config text
+*.cs text
+*.csproj text
+*.resx text
+
+*.ico binary
